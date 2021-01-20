@@ -1,0 +1,8 @@
+Name = 'Nathan Salem'
+Date = '1/19/2021'
+Question = 'At what size of a project should you start using version management software? Why?'
+Response = 'In my opinion it would be best to start using version management software when your code is either going to take multiple days of work, or if you are working with multiple people to create one big collaboration. There are multiple reasons for this, but the main one in my opinion would be that the software would save everything onto the cloud, whereas if all the work were saved onto your hard drive and it was a multi-day project than something could happen to that drive, or file corruption could happen and ruin all your work. Another good reason to have it all on the web would be if you were trying to share your code, or if you wanted to collaborate. Instead of sending hundreds of lines of code back and forth you would have it all on one shared drive and be able to edit it instantly or access it at any time, and if you had questions you could ask the person immediately through the commenting section.'
+Print(Name)
+Print(Date)
+Print(Question)
+Print(Response)
